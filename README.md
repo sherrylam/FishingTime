@@ -13,4 +13,4 @@ This is a state machine going through a fishing experience. There are 10 states 
 
 I roughly based the fishes and the regulations on the California Freshwater Sport Fishing Regulations: https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=177572&inline
 
-My link to my Adobe XD protype: 
+My link to my Adobe XD protype: https://xd.adobe.com/view/f0bd19e3-82a6-4c14-85db-48a1c93c081f-a5ee/?fullscreen
