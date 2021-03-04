@@ -286,6 +286,9 @@ function keyPressed() {
   if( key === 's' ) {
     drawFunction = drawSplash;
   }
+  else if ( key === 'r') {
+    drawFunction = drawRegulations;
+  }
   // spacebar
   else if ( keyCode === 32 ) {
     if(drawFunction === drawPull) {
